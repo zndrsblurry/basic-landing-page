@@ -36,7 +36,7 @@ export default function RootLayout({
         <Navigation />
         <main className="flex-1">{children}</main>
         <footer className="border-t border-border py-6 text-center text-xs text-muted-foreground">
-          © 2025 Barangay Tugbok, Tugbok District, Davao City, Philippines
+          © 2026 Barangay Tugbok, Tugbok District, Davao City, Philippines
         </footer>
       </body>
     </html>
