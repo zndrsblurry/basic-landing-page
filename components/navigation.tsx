@@ -9,6 +9,7 @@ const navLinks = [
   { href: "/tugbok", label: "Governance Model" },
   { href: "/transparency", label: "Transparency Portal" },
   { href: "/community", label: "Community" },
+  { href: "/roadmap", label: "Roadmap & Plans" },
 ];
 
 export default function Navigation() {
